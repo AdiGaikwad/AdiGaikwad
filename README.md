@@ -20,7 +20,7 @@ I'm Aditya Gaikwad, a passionate Full Stack Web Developer based in Pune, India. 
 ![Node.js](https://img.shields.io/badge/Node.js-v14.0-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-v4.17.1-lightgrey?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green?style=for-the-badge&logo=mongodb)
-
+![NextJS](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 🚀 What I'm Currently Doing:
 
 
