@@ -31,8 +31,8 @@ I'm Aditya Gaikwad, a passionate Full Stack Web Developer based in Pune, India. 
 📫 Connect with Me:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Gaikwad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-gaikwad/)
-[![Twitter](https://img.shields.io/badge/Twitter-@adigaikwad-blue?style=flat-square&logo=twitter)](https://twitter.com/adigaikwad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Gaikwad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adigaikwad/)
+[![Twitter](https://img.shields.io/badge/Twitter-@adigaikwad-blue?style=flat-square&logo=twitter)](https://twitter.com/ad1tya_gaikwad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adigaikwad.netlify.app-orange?style=flat-square&logo=google-chrome)](https://adigaikwad.netlify.app/)
 
 📈 GitHub Stats: 
