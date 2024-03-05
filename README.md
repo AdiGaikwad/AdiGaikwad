@@ -3,12 +3,16 @@
 I'm Aditya Gaikwad, a passionate Full Stack Web Developer based in Pune, India. Welcome to my GitHub profile! 🚀
 
 👨‍💻 About Me:
+
+
 - Full Stack Web Developer 💻
 - Code Lover ❤️
 - Coffee Enthusiast ☕
 - Explorer of New Technologies 🌐
 
 🛠️ Tech Stack:
+
+
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
@@ -18,17 +22,25 @@ I'm Aditya Gaikwad, a passionate Full Stack Web Developer based in Pune, India. 
 ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green?style=for-the-badge&logo=mongodb)
 
 🚀 What I'm Currently Doing:
+
+
 - Building awesome web applications
 - Exploring new technologies
 - Contributing to open-source projects
 
 📫 Connect with Me:
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Gaikwad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-gaikwad/)
 [![Twitter](https://img.shields.io/badge/Twitter-@adigaikwad-blue?style=flat-square&logo=twitter)](https://twitter.com/adigaikwad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adigaikwad.netlify.app-orange?style=flat-square&logo=google-chrome)](https://adigaikwad.netlify.app/)
 
-📈 GitHub Stats:
+📈 GitHub Stats: 
+
+
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adigaikwad&show_icons=true&theme=radical)
+
+
 
 🌟 Let's connect and collaborate to build amazing things together! Happy coding! 🚀
 
