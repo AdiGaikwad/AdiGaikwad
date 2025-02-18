@@ -6,7 +6,6 @@ I'm Aditya Gaikwad, a passionate Full Stack Web Developer based in Pune, India. 
 
 
 - Full Stack Web Developer 💻
-- Code Lover ❤️
 - Explorer of New Technologies 🌐
 
 🛠️ Tech Stack:
