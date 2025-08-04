@@ -43,6 +43,7 @@ I'm Aditya Gaikwad, a passionate Full Stack Web Developer based in Pune, India. 
   <img height=200 align="center" src="https://adigaikwad-git-stats.vercel.app/api?username=adigaikwad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <br/>
+<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adigaikwad&theme=tokyonight&hide_border=true)<br/>
 
